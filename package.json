@@ -1,14 +1,14 @@
 {
-  "name": "reacttimer",
+  "name": "reactboilerplate",
   "version": "1.0.0",
-  "description": "Simple React Timer App",
+  "description": "Simple React App",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
-  "license": "ISC",
+  "author": "FvdZ",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.16.2",
     "express": "^4.15.3",
